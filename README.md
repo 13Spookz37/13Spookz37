@@ -18,7 +18,7 @@ Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwickl
 - kleinere Tools und Skripte zur Unterstützung von Tests
 
 ### Artikel & Austausch
-- Medium: https://medium.com/@13spookz37  
+- [Medium](https://medium.com/@13spookz37) 
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-prill-1a183a367/)
   
 > Ziel ist nachhaltige Kompetenzentwicklung durch sauberes Arbeiten und kontinuierliche Reflexion.
