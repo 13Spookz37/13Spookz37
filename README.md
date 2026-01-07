@@ -1,16 +1,24 @@
-## Hi there 👋
+## Spookz
 
-<!--
-**13Spookz37/13Spookz37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich lerne seit einigen Monaten im Bereich Cybersecurity mit dem klaren Ziel, als Pentester zu arbeiten.
+Mein Fokus liegt auf praxisorientiertem Lernen, strukturierter Dokumentation und dem Verständnis realer Angriffspfade, insbesondere in Linux, Windows, Active-Directory und Cloud-Umgebungen.
 
-Here are some ideas to get you started:
+Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwicklungsprozesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Schwerpunkte
+- Windows & Active Directory Pentesting
+- AWS & Cloud Security (IAM, Enumeration, Misconfigurations)
+- Methodisches Vorgehen in Reconnaissance, Privilege Escalation und Lateral Movement
+- Grundlagen von OPSEC im Pentesting-Kontext
+
+### Was du hier findest
+- strukturierte Pentesting-Notes
+- dokumentierte Labs (z. B. TryHackMe, Hack The Box)
+- Writeups mit Fokus auf Denkprozesse statt Spoiler
+- kleinere Tools und Skripte zur Unterstützung von Tests
+
+### Artikel & Austausch
+- Medium: https://medium.com/@13spookz37  
+- LinkedIn: https://linkedin.com/in/andre-prill  
+
+> Ziel ist nachhaltige Kompetenzentwicklung durch sauberes Arbeiten und kontinuierliche Reflexion.
