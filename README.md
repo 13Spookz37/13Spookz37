@@ -6,6 +6,7 @@ Mein Fokus liegt auf praxisorientiertem Lernen, strukturierter Dokumentation und
 Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwicklungsprozesses.
 
 ### Schwerpunkte
+- Linux Pentesting
 - Windows & Active Directory Pentesting
 - AWS & Cloud Security (IAM, Enumeration, Misconfigurations)
 - Methodisches Vorgehen in Reconnaissance, Privilege Escalation und Lateral Movement
