@@ -9,12 +9,12 @@ Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwickl
 - Linux Pentesting
 - Windows & Active Directory Pentesting
 - AWS & Cloud Security (IAM, Enumeration, Misconfigurations)
-- Methodisches Vorgehen in Reconnaissance, Privilege Escalation und Lateral Movement
-- Grundlagen von OPSEC im Pentesting-Kontext
+- Methodisches Vorgehen in jeder Phase des Pentest-Zyklusses
+- Grundlagen von OpSec im Pentesting-Kontext
 
 ### Was du hier findest
 - strukturierte Pentesting-Notes
-- dokumentierte Labs (z. B. TryHackMe, Hack The Box)
+- dokumentierte Labs (z. B. TryHackMe, Hack The Box, Vulnlab)
 - Writeups mit Fokus auf Denkprozesse statt Spoiler
 - kleinere Tools und Skripte zur Unterstützung von Tests
 
