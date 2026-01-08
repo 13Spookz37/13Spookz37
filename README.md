@@ -1,7 +1,7 @@
 ## Spookz
 
-Ich lerne seit einigen Monaten im Bereich Cybersecurity mit dem klaren Ziel, als Pentester zu arbeiten.
-Mein Fokus liegt auf praxisorientiertem Lernen, strukturierter Dokumentation und dem Verständnis realer Angriffspfade, insbesondere in Linux, Windows, Active-Directory und Cloud-Umgebungen.
+Ich lerne seit mehreren Monaten im Bereich Cybersecurity mit dem klaren Ziel, als Pentester zu arbeiten.
+Mein Fokus liegt auf praxisorientiertem Lernen, klarer Dokumentation und dem Verständnis realer Angriffspfade, insbesondere in Linux, Windows, Active-Directory und Cloud-Umgebungen.
 
 Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwicklungsprozesses.
 
@@ -9,7 +9,7 @@ Dieses GitHub-Profil dient als technische Dokumentation meines Lern und Entwickl
 - Linux Pentesting
 - Windows & Active Directory Pentesting
 - AWS & Cloud Security (IAM, Enumeration, Misconfigurations)
-- Methodisches Vorgehen in jeder Phase des Pentest-Zyklusses
+- Methodisches Vorgehen entlang des Pentest-Zyklus
 - Grundlagen von OpSec im Pentesting-Kontext
 
 ### Was du hier findest
